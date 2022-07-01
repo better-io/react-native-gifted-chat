@@ -101,7 +101,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "@expo/react-native-action-sheet": "^3.6.0",
+    "@expo/react-native-action-sheet": "^3.13.0",
     "dayjs": "^1.8.26",
     "prop-types": "^15.7.2",
     "react-native-communications": "^2.2.1",
